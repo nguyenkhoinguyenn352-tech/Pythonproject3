@@ -8,4 +8,4 @@ area = length * width
 
 # Print results
 print("Perimeter of the rectangle is:", perimeter)
-print("Area of the rectangle is:",     area)
+print("Area of the rectangle is:",    area)
